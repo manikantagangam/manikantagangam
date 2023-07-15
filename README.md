@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Manikanta Gangam! 👋</h1>
 <h3 align="center">AIML learner and Web Developer</h3>
 
-<img align="right" alt="hi" width="400" src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif">
+<!-- <img align="right" alt="hi" width="400" src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif"> -->
 
 ## About Me
 
