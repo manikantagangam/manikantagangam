@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Manikanta Gangam! 👋</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Manikanta Gangam! 👋</h1>
 <h3 align="center">AIML learner and Web Developer</h3>
 
-<!-- <img align="right" alt="hi" width="400" src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif"> -->
+<img align="right" alt="hi" width="400" src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif">
 
-## About Me
+## 👨‍💻 About Me
 
 - 🔭 I’m currently a BTech CSE student at Bennett University, Greater Noida.
 - 🌱 I’m currently learning **Machine Learning** and **Web Development**.
@@ -11,7 +11,7 @@
 - 💻 I have experience in developing web applications using technologies like **HTML/CSS**, **JavaScript**, and **Python**.
 - 🤝 I'm open to collaborations on interesting projects related to AI, ML, and Web Development.
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 <h5>Languages</h5>
 
@@ -57,7 +57,7 @@
 <br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=manikantagangam">
 
-## Let's Connect!
+## 🔗 Let's Connect!
 
 <a href="https://github.com/manikantagangam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/manikanta-gangam" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:e21cseu0947@bennett.edu.in" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://manikantagangam.github.io/my-portfolio/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%23117AC9.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a> <a href="https://www.instagram.com/manikanta_gangam" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
