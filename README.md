@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Manikanta Gangam! 👋</h1>
 <h3 align="center">AIML learner and Web Developer</h3>
 
-<img align="right" alt="hi" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47s1bagyqipze2940fwcu8wi70hb3377i3w6q2vvz4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 ## 👨‍💻 About Me
+
+<img align="right" alt="hi" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47s1bagyqipze2940fwcu8wi70hb3377i3w6q2vvz4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently a BTech CSE student at Bennett University, Greater Noida.
 - 🌱 I’m currently learning **Machine Learning** and **Web Development**.
