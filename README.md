@@ -6,7 +6,7 @@
     This+is+Manikanta+Gangam;Nice+to+meet+you!&center=true&size=30&width=800">
   </a>
 </h1> -->
-<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm <a href="https://github.com/manikantagangam">Manikanta Gangam</a>! 👋</h3>
+<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Manikanta Gangam! 👋</h3>
 <h5 align="center">AIML learner and Web Developer</h5>
 <p align="center">
     <a href="https://manikantagangam.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%23117AC9.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
