@@ -6,8 +6,8 @@
     This+is+Manikanta+Gangam;Nice+to+meet+you!&center=true&size=30&width=800">
   </a>
 </h1> -->
-<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Manikanta Gangam! 👋</h3>
-<h5 align="center">AIML learner and Web Developer</h5>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Manikanta Gangam! 👋</h1>
+<h3 align="center">AIML learner and Web Developer</h3>
 <p align="center">
     <a href="https://manikantagangam.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%23117AC9.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <!-- <a href="https://manikantagangam.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%23117AC9.svg?&style=for-the-badge&logo=webcomponents.org&logoColor=white" />
@@ -29,8 +29,13 @@
 - 💻 I have experience in developing web applications using technologies like **HTML/CSS**, **JavaScript**, and **Python**.
 - 🤝 I'm open to collaborations on interesting projects related to AI, ML, and Web Development.
 
+<br></br>
+<br></br>
+
 <h2 align="center">🛠️ Technical Skills 🛠️</h2>
-<p align="center"> <a href="https://github.com/manikantagangam"><img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,mysql,mongodb,tensorflow,vscode,replit,eclipse,postman,github,git,aws,matlab,figma,markdown"> </a> </p>
+<p align="center"> <a href="https://github.com/manikantagangam"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,bootstrap,react,nodejs,mysql,mongodb,ai,tensorflow,flask,pytorch,vscode,replit,eclipse,idea,postman,github,git,bash,aws,matlab,figma,linux,latex,markdown"> </a> </p>
+
+<br></br>
 
 <!-- ## 🛠️ Technical Skills -->
 <!-- <h2 align="center">🛠️ Technical Skills 🛠️</h2>
