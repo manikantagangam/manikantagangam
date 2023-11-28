@@ -33,7 +33,7 @@
 <br></br>
 
 <h2 align="center">🛠️ Technical Skills 🛠️</h2>
-<p align="center"> <a href="https://github.com/manikantagangam"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,bootstrap,react,nodejs,mysql,mongodb,ai,tensorflow,flask,pytorch,vscode,replit,eclipse,idea,postman,github,git,bash,aws,matlab,figma,linux,latex,markdown"> </a> </p>
+<p align="center"> <a href="https://github.com/manikantagangam"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,bootstrap,react,django,nodejs,mysql,mongodb,tensorflow,flask,pytorch,vscode,replit,eclipse,idea,postman,github,git,bash,aws,matlab,figma,linux,latex,markdown"> </a> </p>
 
 <br></br>
 
